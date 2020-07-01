@@ -3,19 +3,19 @@
 ## O que a Transposição visa?
  A obra visa levar água para as áreas secas do Brasil onde não existe uma grande quantidade de rios Perenes, mananciais entre outras fontes de água para suprir a necessidade de abastecimento dos estados de Ceará, Paraíba, Rio Grande do Norte e Pernambuco.
 ### Impactos positivos mencionados pelo governo:
-•	Diminuir a crise de abastecimento em muitas comunidades;
-•	Geração de empregos;
+•	Diminuir a crise de abastecimento em muitas comunidades; <br/>
+•	Geração de empregos; <br/>
 •	Diminuir conflitos entre bacias de rios.
 <br/>
 ### Impactos negativos
 Segundo engenheiros e especialistas do governo, o projeto não irá prejudicar o Rio São Francisco. A agência ANA utilizou uma ferramenta para simular a vazão do canal, essa vazão faz uma captação de 26,4 m³/s, isso podendo ser captado em período de forte seca, nos períodos de cheia é esperado uma captação de 127 m³/s, uma quantidade que segundo a agência não altera em nada no rio. Será mesmo? Pesquisando aqui e ali achei alguns impactos negativos mencionados pela RIMA, são eles: <br/>
-•	Tensões e riscos sociais durante a fase de obras;
-•	Ruptura de relações socio comunitárias durante a fase de obras;
-•	Pressão sobre a infraestrutura urbana;
-•	Risco de interferência com o patrimônio cultural;
-•	Perda e fragmentação de cerca de 430 hectares de áreas com vegetação nativa e de habitats de fauna terrestre;
-•	Risco da introdução de espécies de peixes potencialmente daninhas ao homem nas bacias receptoras;
-•	Interferência sobre a pesca nos açudes receptores;
+•	Tensões e riscos sociais durante a fase de obras; <br/>
+•	Ruptura de relações socio comunitárias durante a fase de obras; <br/>
+•	Pressão sobre a infraestrutura urbana; <br/>
+•	Risco de interferência com o patrimônio cultural; <br/>
+•	Perda e fragmentação de cerca de 430 hectares de áreas com vegetação nativa e de habitats de fauna terrestre;<br/>
+•	Risco da introdução de espécies de peixes potencialmente daninhas ao homem nas bacias receptoras; <br/>
+•	Interferência sobre a pesca nos açudes receptores;<br/>
 •	Modificação do regime fluvial das drenagens receptoras. <br/>
 Segundo o relatório, ainda pode haver um risco enorme de perda da biodiversidade além de afetar outras áreas com potenciais para agricultura, com todos esses tópicos mencionados e as possibilidades de outras áreas sofrerem com essa transposição, será que podemos esperar muito dessa obra do governo? Acredito que tal obra além de trazer fortes impactos na saúde do ambiente, pode também fazer o dinheiro dos cofres públicos diminuírem bastante também. Por hora o governo e a agência ANA dizem que tal obra será um feito histórico e que poderá transforma o Brasil, mudar a vida de muitos nordestinos. Bom, espero que isso seja verdade e que eu esteja completamente enganado sobre essa obra. Na segunda parte pretendo focar mais em dados matemáticos, grato por lerem este meu texto.  
 #### ALgumas fontes de pesquisa:
