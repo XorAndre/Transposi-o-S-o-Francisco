@@ -1,7 +1,7 @@
 # Transposição do Rio São Francisco (parte 1)
-No ano de 2020 o presidente Jair Bolsonaro assinou a entrega de boa parte da obra da Transposição do Rio São Francisco (obra iniciada pelo governo do ex-presidente Lula), saindo fora do histórico e de quem assinou..., o meu objetivo é um texto sobre o que essa obra pode trazer de impactos sendo eles negativos e positivos, talvez ao escrever esse texto, eu esteja sendo um pouco pessimista, mas quero de fato buscar uma compreensão sobre essa obra. O texto será grande e terá duas partes, nessa primeira tentarei mostrar pontos por meio de textos e na segunda parte usarei cálculos e gráficos para expressar alguns dados. 
+ No ano de 2020 o presidente Jair Bolsonaro assinou a entrega de boa parte da obra da Transposição do Rio São Francisco (obra iniciada pelo governo do ex-presidente Lula), saindo fora do histórico e de quem assinou..., o meu objetivo é um texto sobre o que essa obra pode trazer de impactos sendo eles negativos e positivos, talvez ao escrever esse texto, eu esteja sendo um pouco pessimista, mas quero de fato buscar uma compreensão sobre essa obra. O texto será grande e terá duas partes, nessa primeira tentarei mostrar pontos por meio de textos e na segunda parte usarei cálculos e gráficos para expressar alguns dados. 
 ## O que a Transposição visa?
-	A obra visa levar água para as áreas secas do Brasil onde não existe uma grande quantidade de rios Perenes, mananciais entre outras fontes de água para suprir a necessidade de abastecimento dos estados de Ceará, Paraíba, Rio Grande do Norte e Pernambuco.
+ A obra visa levar água para as áreas secas do Brasil onde não existe uma grande quantidade de rios Perenes, mananciais entre outras fontes de água para suprir a necessidade de abastecimento dos estados de Ceará, Paraíba, Rio Grande do Norte e Pernambuco.
 ### Impactos positivos mencionados pelo governo:
 •	Diminuir a crise de abastecimento em muitas comunidades;
 •	Geração de empregos;
